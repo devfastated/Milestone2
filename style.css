@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.image{
+    display: block;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+.image2 {
+    width: 100px;
+    height: 100px;
+}
